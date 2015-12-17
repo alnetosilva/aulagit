@@ -1,2 +1,1 @@
-segundo arquivo.txt
-incluindo uma linha ao arquivo2.txt
+Modificando completamente teste2.txt
