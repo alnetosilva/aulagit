@@ -1,1 +1,1 @@
-minha primeira mudança em um arquivo gerenciado pelo git
+Editando minha primeira mudança em um arquivo gerenciado pelo git!
