@@ -1,5 +1,5 @@
 Modificando completamente teste2.txt
 Editando teste2.txt apos a segunda modificação
-Inserindo terceira linha
-quarta linha
-quinta linha
+Inserindo terceira linha!
+quarta linha!
+quinta linha!
