@@ -1,1 +1,2 @@
 Modificando completamente teste1.txt
+incluindo uma nova linha no teste1.txt
