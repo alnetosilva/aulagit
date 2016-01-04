@@ -1,6 +1,6 @@
 #Primeiro README
 **Este é meu primeiro envio para o github**
-_Para fazer-lo, commitei adicionei e commitei os arquivos teste 1,2 e 3_
+_Para fazer-lo, commitei adicionei e commitei os arquivos teste 1,2 e 3_</ br>
 _Depois disso, fiz dois branchs branch1 e branch2_
 _Nesse ponto, inseri o arquivo branch1.txt no branch1 e branch2.txt no branch2_
 _Voltei para o branch master "$git checkout master"_
